@@ -3,6 +3,7 @@ icheck-rails
 =======================
 
 [![Gem Version](https://badge.fury.io/rb/icheck-rails.svg)](http://badge.fury.io/rb/icheck-rails)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Ficheck-rails.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Ficheck-rails?ref=badge_shield)
 
 [iCheck](http://damirfoy.com/iCheck/) is a library for creating super customized checkboxes and radio buttons with JQuery & Zepto.
 This [Gem](http://rubygems.org/) packages iCheck for [Ruby](http://www.ruby-lang.org) on
@@ -95,3 +96,7 @@ $(function(){
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Ficheck-rails.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Ficheck-rails?ref=badge_large)
